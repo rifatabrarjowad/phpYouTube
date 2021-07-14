@@ -1,13 +1,8 @@
-<?php
-$_cName01 = 'Bangladesh';
-$age = 17 ;
+<?php 
+$name = 'Bangladesh';
+$age = 17;
+$que = "vai tmr boyos koto ??";
+echo $que;
+echo "\nvai amar boyos {$age} \n";
 $old = "age";
-
 echo $$old;
-
-echo "\n";
-$que = "vai tmr boyos koto..??";
-
-echo "hello ".$_cName01;
-echo "\n";
-echo "{$que} \n vai amar boyos {$age} bochor";
